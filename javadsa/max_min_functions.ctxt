@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=max_min_functions
+comment1.params=a\ b\ c
+comment1.target=double\ max(double,\ double,\ double)
+comment2.params=a\ b\ c
+comment2.target=double\ min(double,\ double,\ double)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
