@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=spiral_matrix_2_2
+comment1.params=a\ le\ lo\ u\ ri
+comment1.target=void\ right(java.lang.String[][],\ int,\ int,\ int,\ int)
+comment2.params=a\ le\ lo\ u\ ri
+comment2.target=void\ down(java.lang.String[][],\ int,\ int,\ int,\ int)
+comment3.params=a\ le\ lo\ u\ ri
+comment3.target=void\ left(java.lang.String[][],\ int,\ int,\ int,\ int)
+comment4.params=a\ le\ lo\ u\ ri
+comment4.target=void\ up(java.lang.String[][],\ int,\ int,\ int,\ int)
+comment5.params=
+comment5.target=void\ main()
+numComments=6
