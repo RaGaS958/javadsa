@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=linear_range_max_min
+comment1.params=a\ l\ u
+comment1.target=int\ max(int[],\ int,\ int)
+comment2.params=a\ l\ u
+comment2.target=int\ min(int[],\ int,\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
