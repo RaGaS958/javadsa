@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=first_last_feat_binary
+comment1.params=target\ a
+comment1.target=int\ binary(int,\ int[])
+comment2.params=a\ target
+comment2.target=int\ start(int[],\ int)
+comment3.params=a\ target
+comment3.target=int\ end(int[],\ int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

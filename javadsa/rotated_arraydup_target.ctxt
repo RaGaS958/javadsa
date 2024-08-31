@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=rotated_arraydup_target
+comment1.params=a
+comment1.target=int\ findpivot(int[])
+comment2.params=a\ target\ start\ end
+comment2.target=boolean\ check(int[],\ int,\ int,\ int)
+comment3.params=a\ target\ s
+comment3.target=boolean\ checker(int[],\ int,\ int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

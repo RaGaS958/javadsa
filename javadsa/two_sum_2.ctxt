@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=two_sum_2
+comment1.params=a\ target
+comment1.target=int\ range(int[],\ int)
+comment2.params=a\ target\ pos\ b
+comment2.target=int\ sum(int[],\ int,\ int,\ boolean)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=sub_array_minmax_sum
+comment1.params=a\ m
+comment1.target=int\ split(int[],\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

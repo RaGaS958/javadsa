@@ -15,8 +15,6 @@ class binary_search
             end=mid-1;
              if(target==a[mid])
             return true;
-            if(end==start && a[mid]!=target)
-            return false;
         }
         return false;
     }
