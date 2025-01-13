@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=chocolate_sweetness
+comment1.params=arr\ b
+comment1.target=int\ minmax(int[],\ boolean)
+comment2.params=arr\ k
+comment2.target=int\ sweetness(int[],\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

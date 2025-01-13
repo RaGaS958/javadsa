@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=selection_sorting
+comment1.params=arr\ start\ end
+comment1.target=void\ swap(int[],\ int,\ int)
+comment2.params=arr\ start\ end
+comment2.target=int\ max(int[],\ int,\ int)
+comment3.params=arr
+comment3.target=void\ selection(int[])
+comment4.params=
+comment4.target=void\ main()
+numComments=5

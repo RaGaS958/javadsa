@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=frequency_ofNum
+comment1.params=arr\ k
+comment1.target=int\ freq(int[],\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

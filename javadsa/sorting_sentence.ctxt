@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=sorting_sentence
+comment1.params=s\ arr
+comment1.target=void\ sorting(java.lang.String,\ java.lang.String[])
+comment2.params=arr
+comment2.target=java.lang.String\ sen(java.lang.String[])
+comment3.params=
+comment3.target=void\ main()
+numComments=4

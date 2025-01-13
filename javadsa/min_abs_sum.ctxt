@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=min_abs_sum
+comment1.params=a\ b
+comment1.target=int\ mindiff(int[],\ int[])
+comment2.params=a\ b
+comment2.target=boolean\ equal(int[],\ int[])
+comment3.params=a\ b\ e\ c
+comment3.target=int\ abssum(int[],\ int[],\ boolean,\ int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

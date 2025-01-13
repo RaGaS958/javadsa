@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=book_all
+comment1.params=arr\ k\ pagelim
+comment1.target=boolean\ checkpage(int[],\ int,\ int)
+comment2.params=arr\ k
+comment2.target=int\ alloc(int[],\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

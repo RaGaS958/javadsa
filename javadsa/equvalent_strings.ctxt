@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=equvalent_strings
+comment1.params=arr1\ arr2
+comment1.target=boolean\ check(java.lang.String[],\ java.lang.String[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3
