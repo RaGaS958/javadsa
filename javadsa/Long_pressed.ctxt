@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Long_pressed
+comment1.params=type\ name
+comment1.target=boolean\ check(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

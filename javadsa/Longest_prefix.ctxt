@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Longest_prefix
+comment1.params=arr
+comment1.target=java.lang.String\ prefix(java.lang.String[])
+comment2.params=arr
+comment2.target=int\ shorty(java.lang.String[])
+comment3.params=
+comment3.target=void\ main()
+numComments=4
