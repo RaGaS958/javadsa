@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Splitter_3
+comment1.params=s\ init\ fina
+comment1.target=int\ count(java.lang.String,\ int,\ int)
+comment2.params=s
+comment2.target=int\ check(java.lang.String)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
