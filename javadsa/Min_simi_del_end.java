@@ -5,32 +5,25 @@ class Min_simi_del_end
     {
         int st=0;
         int end=s.length()-1;
-        while(st<=end && (s.charAt(st)==s.charAt(end)))
-        {
-            char ch=s.charAt(st);
-              if(st==end)
-            {
-                return 0;
+       while(st<end)
+       {
+           char ch=s.charAt(st);
+           char ch1=s.charAt(end);
+           if(ch1==ch)
+           {
+             while(ch==s.charAt((st++)+1))
+             {
+                }
+                 while(ch1==s.charAt((end--)-1))
+             {
+                }
             }
-            while(s.charAt(st)==ch)
+            else
             {
-                st++;
-                System.out.print(st+" ");
-                System.out.println("Start");
+                return end-st+1;
             }
-            while(s.charAt(end)==ch)
-            {
-                end--;
-                System.out.print(end+" ");
-                System.out.println("end");
-            }
-          
-            s=s.substring(st,end+1);
-            st=0;
-            end=s.length()-1;
-
         }
-        return s.length();
+        return 0;
     }
     public static void main()
     {
